@@ -1,12 +1,15 @@
 h1 {
     color: coral;
+    text-align: center;
 }
 
 body {
     background-color: black;
+    text-align: center;
 }
 
 p {
     background-color: blueviolet;
     color: goldenrod;
+    text-align: center;
 }
